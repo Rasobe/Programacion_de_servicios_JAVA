@@ -19,6 +19,5 @@ public class Hilo1 extends Thread {
 		System.out.println("Hola soy el hilo " + this.getId());
 		super.run();
 	}
-
 	
 }
